@@ -8,8 +8,8 @@ A página "Ambientes únicos" foi criada como um exercício prático para aprimo
 
 ## **💻 Tecnologias Utilizadas**
 
-- HTML5
-- CSS3
+- **HTML5**
+- **CSS3**
 
 ## **🎓 Aprendizados Destacados**
 
@@ -19,18 +19,18 @@ A página "Ambientes únicos" foi criada como um exercício prático para aprimo
 
 ### **🎨 Estilização com CSS**
 
-- **Estilização de Elementos** Estilização de elementos como **`<h1>`**, **`<p>`**, **`<span>`**, **`<strong>`** para apresentar o conteúdo de forma atraente.
-- **Uso de Fontes** Definição de estilos para **`<h1>`** utilizando fontes **`Inter`** e **`Open Sans`**.
-- **Aplicação de Cores** Aplicação de cores para realçar elementos como **`<span>`** e **`<a>`**.
+- **Estilização de Elementos:** Estilização de elementos como **`<h1>`**, **`<p>`**, **`<span>`**, **`<strong>`** para apresentar o conteúdo de forma atraente.
+- **Uso de Fontes:** Definição de estilos para **`<h1>`** utilizando fontes **`Inter`** e **`Open Sans`**.
+- **Aplicação de Cores:** Aplicação de cores para realçar elementos como **`<span>`** e **`<a>`**.
 
 ### **🧭 Posicionamento**
 
-- **Posicionamento Fixo** Posicionamento fixo para a imagem de bolinhas laranjas no canto inferior direito da tela.
+- **Posicionamento Fixo:** Posicionamento fixo para a imagem de bolinhas laranjas no canto inferior direito da tela.
 
 ### **👍 Boas Práticas**
 
-- **Organização do Código** Organização estrutural do código HTML e CSS para uma melhor manutenção e legibilidade.
-- **Atributos Alt em Imagens** (**`alt=""`**) para imagens para melhor acessibilidade.
+- **Organização do Código:** Organização estrutural do código HTML e CSS para uma melhor manutenção e legibilidade.
+- **Atributos Alt em Imagens:** (**`alt=""`**) para imagens para melhor acessibilidade.
 
 Este projeto visa destacar a criação de ambientes exclusivos e bem decorados. Foi desenvolvido como uma prática de HTML e CSS para criar uma página web simples e atraente.
 
