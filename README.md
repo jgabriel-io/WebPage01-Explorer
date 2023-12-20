@@ -22,10 +22,7 @@ A página "Ambientes únicos" foi criada como um exercício prático para aprimo
 - **Estilização de Elementos:** Estilização de elementos como **`<h1>`**, **`<p>`**, **`<span>`**, **`<strong>`** para apresentar o conteúdo de forma atraente.
 - **Uso de Fontes:** Definição de estilos para **`<h1>`** utilizando fontes **`Inter`** e **`Open Sans`**.
 - **Aplicação de Cores:** Aplicação de cores para realçar elementos como **`<span>`** e **`<a>`**.
-
-### **🧭 Posicionamento**
-
-- **Posicionamento Fixo:** Posicionamento fixo para a imagem de bolinhas laranjas no canto inferior direito da tela.
+- **Posicionamento Fixo:** Uso de **`position: fixed;`** para posicionar elementos específicos na página.
 
 ### **👍 Boas Práticas**
 
