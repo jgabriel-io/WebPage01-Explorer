@@ -36,4 +36,4 @@ Este projeto visa destacar a criação de ambientes exclusivos e bem decorados. 
 
 ---
 
-Desenvolvido por João Gabriel | [https://img.icons8.com/ios/250/000000/linkedin.png](https://img.icons8.com/ios/250/000000/linkedin.png) [jgabriel522](https://www.linkedin.com/in/jgabriel522/) | 22/11/2023
+Desenvolvido por João Gabriel | [Linkedin](https://www.linkedin.com/in/jgabriel522/) | 22/11/2023
